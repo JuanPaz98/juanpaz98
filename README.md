@@ -35,7 +35,12 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="40px"> &nbsp
     <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" width="40px"> &nbsp
 </div>
+<br>
+<h2>📈Estadísticas</h2>
     
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=juanpaz98&theme=slateorange&locale=es&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juanpaz98&show_icons=true)
 
 
 <!--
