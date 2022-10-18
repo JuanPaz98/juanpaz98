@@ -11,8 +11,9 @@
     <span> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/WhatsApp_icon.png/598px-WhatsApp_icon.png" width="20px"> 
         <a href="https://api.whatsapp.com/send?phone=+573165808886&text=Hola%20Juan,%20ví%20tu%20portafolio%20y%20quiero%20saber%20más%20sobre%20Tí">WhatsApp</a>             </span>
 </div>
+<br>
 <div>
-    <h2>Sobre Mí: </h2>
+    <h2>🧑Sobre Mí: </h2>
     <ul>
         <li>💖 Angular Lover</li>
         <li>🍃 Actualmente aprendiento Spring y MySQL</li>
@@ -20,9 +21,9 @@
         <li>👨‍🎓 Egresado Misión TIC 2022 - Universidad del Norte</li>
     </ul>
 </div>
-
+<br>
 <div>
-    <h2>Tecnologías y Herramientas:</h2>
+    <h2>🛠Tecnologías y Herramientas:</h2>
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" width="40px"> &nbsp
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" width="40px"> &nbsp
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" width="40px"> &nbsp
