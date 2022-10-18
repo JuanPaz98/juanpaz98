@@ -38,9 +38,9 @@
 <br>
 <h2>📈Estadísticas</h2>
     
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=juanpaz98&theme=slateorange&locale=es&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=juanpaz98&theme=holi-theme&locale=es&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juanpaz98&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juanpaz98&show_icons=true&theme=transparent)
 
 
 <!--
