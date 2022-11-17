@@ -18,7 +18,7 @@
         <li>💖 Angular Lover</li>
         <li>🍃 Actualmente aprendiento Spring y MySQL</li>
         <li>📧 Mi correo es <a href="mailto:jjfer032@gmail.com">jjfer032@gmail.com</a></li>
-        <li>🐨 Trabajo en Quala SA</li>
+        <li>🐨 Trabajo en Newshore</li>
         <li>👨‍🎓 Egresado Misión TIC 2022 - Universidad del Norte</li>
     </ul>
 </div>
