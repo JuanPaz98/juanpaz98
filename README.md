@@ -16,7 +16,6 @@
     <h2>🧑About: </h2>
     <ul>
         <li>📧 My mail is <a href="mailto:jjfer032@gmail.com">jjfer032@gmail.com</a></li>
-        <li>✈ Working in Flyt</li>
     </ul>
 </div>
 <br>
